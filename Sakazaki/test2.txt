@@ -8,4 +8,12 @@ kakakakakakakaka
 elaelaelaelaelaelaela
 meijimeijimeijimeiji
 jtjtjtjtjtjtjtjtjtjtjtjtjt
+<<<<<<< HEAD
 saijaku
+=======
+<<<<<<<< HEAD:Sakazaki/test2.txt
+akasatana
+========
+saijaku
+>>>>>>>> Sakazaki:test/test2.txt
+>>>>>>> Sakazaki
