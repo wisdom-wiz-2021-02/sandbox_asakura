@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 test2/
+=======
+test4.txt
+test2/*
+!test2/*.keep
+test2/test2.keep
+>>>>>>> 5e3e51398a09b9fb3ca6802805d6975a951dfcf1
