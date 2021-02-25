@@ -5,4 +5,8 @@ dddddd
 eeeeee
 ffffff
 kakakakakakakaka
+<<<<<<< HEAD
 elaelaelaelaelaelaela
+=======
+sasasasasasasasa
+>>>>>>> 61132587d9dc1591ac999f31e9988d9cf0cacae6
