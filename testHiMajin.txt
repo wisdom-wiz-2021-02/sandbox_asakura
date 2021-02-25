@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+Hello world!
+I'm HiMajin nice to meet you :)
+aaaa
+>>>>>>> 47e7f1a0df6c1ad13cf0f2b2f923b79ad3172857
